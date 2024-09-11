@@ -1,4 +1,4 @@
-package hello.world;
+package dev.kliffx2.runnerz;
 
 import org.springframework.stereotype.Component;
 
